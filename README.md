@@ -44,7 +44,8 @@ Inverting amplifier:
 
 
 ## CALCULATION:
-![WhatsApp Image 2026-03-18 at 1 19 09 PM](https://github.com/user-attachments/assets/f39c71bc-3d87-4f3b-9aac-2ab87efb8a77)
+<img width="1200" height="1600" alt="b8ec2d4d-0211-4a69-a7b6-6dfebe977483" src="https://github.com/user-attachments/assets/405fe2f0-9b0e-4477-84cd-732f3df3636b" />
+
 
 ## TABULATION:
 
